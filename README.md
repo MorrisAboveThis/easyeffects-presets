@@ -5,11 +5,11 @@
 
 
 ## [Input](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Input)
-- **[Microphone 1.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Input/Microphone%201.0.json)**
+- **[Microphone v1.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Input/Microphone%20v1.0.json)**
 
 
 
 
 ## [Output](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Output)
-- **[Sennheiser Accentum SE 1.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Sennheiser%20Accentum%20SE%201.0.json)**
-
+- **[Sennheiser Accentum SE v1.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Sennheiser%20Accentum%20SE%20v1.0.json)**
+- **[DT 770 Pro v1.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/DT%20770%20Pro%201.0.json)**
