@@ -1,7 +1,7 @@
  # EasyEffects presets
 
 
-*I do this for fun.*
+*I do this for fun and for my friends.*
 
 
 ## [Input](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Input)
