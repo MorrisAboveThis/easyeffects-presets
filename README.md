@@ -5,7 +5,7 @@
 
 
 ## [Input](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Input)
-- **[Microhpone](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Input/Microphone%201.0.json)**
+- **[Microphone](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Input/Microphone%201.0.json)**
 
 
 
