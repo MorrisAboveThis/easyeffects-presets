@@ -843,7 +843,7 @@
         "equalizer#1": {
             "balance": 0.0,
             "bypass": false,
-            "input-gain": -1.1,
+            "input-gain": -1.5,
             "left": {
                 "band0": {
                     "frequency": 22.409377607517197,
@@ -1200,7 +1200,7 @@
             },
             "mode": "IIR",
             "num-bands": 32,
-            "output-gain": 3.4,
+            "output-gain": 3.5,
             "pitch-left": 0.0,
             "pitch-right": 0.0,
             "right": {
@@ -1573,13 +1573,13 @@
             "bypass": false,
             "delay": 0.0,
             "dry": -100.0,
-            "input-gain": -0.5,
+            "input-gain": -1.0,
             "middle-level": 0.0,
             "middle-panorama": 0.0,
             "mode": "LR > LR (Stereo Default)",
             "mutel": false,
             "muter": false,
-            "output-gain": -1.0,
+            "output-gain": -1.5,
             "phasel": false,
             "phaser": false,
             "sc-level": 1.0,
