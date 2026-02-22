@@ -6,7 +6,7 @@
 
 ## [Input](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Input)
 - **[Microphone v1.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Input/Microphone%20v1.0.json)** 
-   - ***(adjust your Microphone Level to work with the gate and using Discord select "Studio" as the Recording profile)***
+   - ***(adjust your Microphone Level to work with the Gate and using Discord select "Studio" as the Recording profile)***
 
 
 
