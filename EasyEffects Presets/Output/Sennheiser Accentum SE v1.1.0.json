@@ -1560,11 +1560,11 @@
             "split-channels": false
         },
         "plugins_order": [
-            "bass_loudness#0",
+            "stereo_tools#0",
             "equalizer#0",
+            "bass_loudness#0",
             "crystalizer#0",
             "compressor#0",
-            "stereo_tools#0",
             "equalizer#1"
         ],
         "stereo_tools#0": {
