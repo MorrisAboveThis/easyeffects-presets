@@ -11,5 +11,5 @@
 
 
 ## [Output](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Output)
-- **[Sennheiser Accentum SE v1.0.2](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Sennheiser%20Accentum%20SE%20v1.0.3.json)**
+- **[Sennheiser Accentum SE v1.0.3](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Sennheiser%20Accentum%20SE%20v1.0.3.json)**
 - **[beyerdynamic DT 770 Pro v0.9](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/beyerdynamic%20DT%20770%20Pro%20v0.9.json)**
