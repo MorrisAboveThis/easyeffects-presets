@@ -22,4 +22,4 @@
 
 ## [Output](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Output)
 - **[Sennheiser Accentum SE](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Sennheiser%20Accentum%20SE.json)**
-   - ***(a preset made specifically for the Sennheiser Accentum Headphones, for the best possible music experience)***
+   - ***(a preset made specifically for the Sennheiser Accentum Headphones, for the best possible music experience, without altering the original sound of songs)***
