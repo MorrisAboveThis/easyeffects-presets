@@ -3,7 +3,7 @@
 
 *I do this for fun and for my friends.*
 
-*All presets are done by myself by ear, I'm no professional, I do this in my spare time.*
+*All presets are made by myself by ear, I'm no professional, I do this in my spare time.*
 
 
 
