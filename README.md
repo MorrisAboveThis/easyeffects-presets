@@ -13,13 +13,9 @@
    - ***(a preset made to work with any microphone)***
       - ***(adjust your microphone level to work with the gate and using e.g. Discord select "Studio" in Discord as the recording profile)***
 
-
-
 - ## [Output](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Output)
 - **[Sennheiser Accentum SE](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Sennheiser%20Accentum%20SE.json)**
    - ***(a preset made specifically for the Sennheiser Accentum Headphones, for the best possible music and audio experience)***
-
-
 
 ## ***Work in progress presets:***
 - ## [Output](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Output)
