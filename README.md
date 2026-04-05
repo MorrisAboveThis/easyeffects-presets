@@ -28,4 +28,4 @@
 - **[beyerdynamic DT 770 Pro v1.0.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/beyerdynamic%20DT%20770%20Pro%20v1.0.0.json)**
 - **[Canton Karat 920 DC v1.0.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Canton%20Karat%20920%20DC%20v1.0.0.json)**
 - **[Allrounder v1.0.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Allrounder%20v1.0.0.json)** 
-   - ***(a preset just for more clarity for any output device, don't expect a miracle)***
+   - ***(a preset made just for more clarity for any output device, don't expect a miracle)***
