@@ -11,7 +11,7 @@
 ### Input
 - **[Any Microphone](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Input/Microphone.json)** 
    - ***(a preset made to work with any microphone)***
-      - ***(adjust your microphone level to work with the gate and using e.g. Discord select "Studio" in Discord as the recording profile)***
+      - *(adjust your microphone level to work with the gate and using e.g. Discord select "Studio" in Discord as the recording profile)*
 
 ### Output
 - **[Sennheiser Accentum SE](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Sennheiser%20Accentum%20SE.json)**
