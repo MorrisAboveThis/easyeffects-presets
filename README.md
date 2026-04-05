@@ -3,6 +3,8 @@
 
 *I do this for fun and for my friends.*
 
+*All presets are done by myself by ear, I'm no professional, I do this in my spare time.*
+
 
 
 ## ***Work in progress presets***
