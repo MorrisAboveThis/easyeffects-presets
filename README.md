@@ -7,14 +7,6 @@
 
 
 
-## ***Work in progress presets***
-
-## [Output](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Output)
-- **[beyerdynamic DT 770 Pro v1.0.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/beyerdynamic%20DT%20770%20Pro%20v1.0.0.json)**
-- **[Canton Karat 920 DC v1.0.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Canton%20Karat%20920%20DC%20v1.0.0.json)**
-- **[Allrounder v1.0.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Allrounder%20v1.0.0.json)** 
-   - ***(a preset just for more clarity for any output device, don't expect a miracle)***
-
 ## ***Finished presets***
 
 ## [Input](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Input)
@@ -25,3 +17,13 @@
 ## [Output](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Output)
 - **[Sennheiser Accentum SE](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Sennheiser%20Accentum%20SE.json)**
    - ***(a preset made specifically for the Sennheiser Accentum Headphones, for the best possible music and audio experience)***
+
+
+
+## ***Work in progress presets***
+
+## [Output](https://github.com/MorrisAboveThis/easyeffects-presets/tree/main/EasyEffects%20Presets/Output)
+- **[beyerdynamic DT 770 Pro v1.0.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/beyerdynamic%20DT%20770%20Pro%20v1.0.0.json)**
+- **[Canton Karat 920 DC v1.0.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Canton%20Karat%20920%20DC%20v1.0.0.json)**
+- **[Allrounder v1.0.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Allrounder%20v1.0.0.json)** 
+   - ***(a preset just for more clarity for any output device, don't expect a miracle)***
