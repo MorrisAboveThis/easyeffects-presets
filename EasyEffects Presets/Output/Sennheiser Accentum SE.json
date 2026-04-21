@@ -2,11 +2,11 @@
     "output": {
         "bass_loudness#0": {
             "bypass": false,
-            "input-gain": 0.0,
+            "input-gain": -0.1,
             "link": -7.7,
-            "loudness": -4.1,
-            "output": -5.0,
-            "output-gain": -2.0
+            "loudness": -4.3,
+            "output": -5.1,
+            "output-gain": -1.5
         },
         "blocklist": [],
         "compressor#0": {
@@ -27,7 +27,7 @@
             "lpf-mode": "Off",
             "makeup": 0.0,
             "mode": "Boosting",
-            "output-gain": -1.0,
+            "output-gain": -1.2,
             "ratio": 2.0,
             "release": 100.0,
             "release-threshold": -80.01,
@@ -65,12 +65,12 @@
             },
             "band11": {
                 "bypass": false,
-                "intensity": 18.0,
+                "intensity": 17.0,
                 "mute": false
             },
             "band12": {
                 "bypass": false,
-                "intensity": 17.0,
+                "intensity": 16.0,
                 "mute": false
             },
             "band2": {
@@ -115,11 +115,11 @@
             },
             "bypass": false,
             "fixed-quantum": false,
-            "input-gain": 0.0,
-            "output-gain": -3.0,
+            "input-gain": -1.0,
+            "output-gain": -2.2,
             "oversampling": true,
             "oversampling-quality": 10.0,
-            "transition-band": 140.0
+            "transition-band": 130.0
         },
         "equalizer#0": {
             "balance": 0.0,
@@ -481,7 +481,7 @@
             },
             "mode": "IIR",
             "num-bands": 32,
-            "output-gain": -5.2,
+            "output-gain": -7.1,
             "pitch-left": 0.0,
             "pitch-right": 0.0,
             "right": {
@@ -859,7 +859,7 @@
             "mode": "LR > LR (Stereo Default)",
             "mutel": false,
             "muter": false,
-            "output-gain": -2.0,
+            "output-gain": -1.0,
             "phasel": false,
             "phaser": false,
             "sc-level": 1.0,
