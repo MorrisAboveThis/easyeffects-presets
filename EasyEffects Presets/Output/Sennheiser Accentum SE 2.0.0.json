@@ -4,8 +4,8 @@
             "bypass": false,
             "input-gain": -0.1,
             "link": -7.7,
-            "loudness": -4.3,
-            "output": -5.1,
+            "loudness": -3.9,
+            "output": -5.0,
             "output-gain": -1.5
         },
         "blocklist": [],
@@ -60,17 +60,17 @@
             },
             "band10": {
                 "bypass": false,
-                "intensity": 19.0,
+                "intensity": 18.0,
                 "mute": false
             },
             "band11": {
                 "bypass": false,
-                "intensity": 17.0,
+                "intensity": 16.0,
                 "mute": false
             },
             "band12": {
                 "bypass": false,
-                "intensity": 16.0,
+                "intensity": 15.0,
                 "mute": false
             },
             "band2": {
