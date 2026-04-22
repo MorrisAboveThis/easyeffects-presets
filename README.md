@@ -7,7 +7,7 @@
 
 
 
-## ***Finished presets:***
+## ***"Finished" presets:***
 ### Input
 - **[Any Microphone](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Input/Microphone.json)** 
    - ***(a preset made to work with any microphone)***
