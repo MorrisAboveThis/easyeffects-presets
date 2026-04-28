@@ -118,8 +118,8 @@
             "input-gain": -1.0,
             "output-gain": -1.5,
             "oversampling": true,
-            "oversampling-quality": 5.0,
-            "transition-band": 120.0
+            "oversampling-quality": 10.0,
+            "transition-band": 130.0
         },
         "equalizer#0": {
             "balance": 0.0,
