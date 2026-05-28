@@ -5,7 +5,7 @@
 
 *All presets are made by myself by ear, I'm no professional, I do this in my spare time.*
 
-* **[Download](https://github.com/MorrisAboveThis/easyeffects-presets/releases/latest)**
+- **[Download](https://github.com/MorrisAboveThis/easyeffects-presets/releases/latest)**
    - ***(the latest release of all presets)***
 ## ***"Finished" presets:***
 ### Input
