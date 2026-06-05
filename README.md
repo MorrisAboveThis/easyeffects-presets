@@ -21,7 +21,7 @@
 ### Output
 - **[Allrounder v1.1.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Allrounder%20v1.1.0.json)** 
    - ***(a preset made just for more clarity for any output device, don't expect a miracle)***
-- **[beyerdynamic DT 770 Pro v1.2.1](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/beyerdynamic%20DT%20770%20Pro%20v1.2.1.json)**
-- **[Speaker v1.3.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Speaker%20v1.3.0.json)**
+- **[beyerdynamic DT 770 Pro v1.3.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/beyerdynamic%20DT%20770%20Pro%20v1.3.0.json)**
+- **[Speaker v1.4.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Speaker%20v1.4.0.json)**
    - ***(based on a previous DT 770 Pro preset)***
 - **[KLIM Puma v0.1.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/KLIM%20Puma%20v0.1.0.json)**
