@@ -5,8 +5,8 @@
             "input-gain": -0.5,
             "link": -6.2,
             "loudness": -3.2,
-            "output": -3.4,
-            "output-gain": -6.0
+            "output": -3.3,
+            "output-gain": -6.5
         },
         "blocklist": [],
         "crystalizer#0": {
