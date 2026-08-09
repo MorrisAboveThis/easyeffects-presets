@@ -16,11 +16,11 @@
 ### Output
 - **[Sennheiser Accentum v3.0.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Sennheiser%20Accentum%20v3.0.0.json)**
    - ***(a preset made specifically for the Sennheiser Accentum Headphones, for the best possible music and audio experience)***
+- **[Allrounder v2.0.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Allrounder%20v2.0.0.json)** 
+   - ***(a preset that should enhance the sound quality of any output device)***
 
 ## ***Work in progress presets:***
 ### Output
-- **[Allrounder v1.1.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Allrounder%20v1.1.0.json)** 
-   - ***(a preset made just for more clarity for any output device, don't expect a miracle)***
 - **[beyerdynamic DT 770 Pro v1.3.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/beyerdynamic%20DT%20770%20Pro%20v1.3.0.json)**
 - **[Speaker v1.4.0](https://github.com/MorrisAboveThis/easyeffects-presets/blob/main/EasyEffects%20Presets/Output/Speaker%20v1.4.0.json)**
    - ***(based on a previous DT 770 Pro preset)***
